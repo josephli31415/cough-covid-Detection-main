@@ -1,0 +1,12 @@
+torch
+h5py
+streamlit
+numpy
+librosa
+scikit-learn
+keras
+matplotlib
+pandas
+seaborn
+reportlab
+tensorflow
